@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sparkw3.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-11T07:41:00" hostname="cmls-MBP.fritz.box" time="0.03">
+  <properties/>
+  <testcase name="appHasAGreeting()" classname="sparkw3.AppTest" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
